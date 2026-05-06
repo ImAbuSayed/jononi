@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/jononi/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Obtain a Music License for Jononi](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Jononi](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> আঁধার রাতে বুকের ভেতর জ্বলে ওঠে প্রেমের আগুন
+> তোমায় ছাড়া কাটে না সময়, বৃথা যায় আমার ফাগুন
+> তোমার ছোঁয়ায় মিটে যায় জন্ম জন্মান্তরের তৃষ্ণা
+> কাছে এসো বুকের মাঝে মিটাই আমার সকল বাসনা
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
