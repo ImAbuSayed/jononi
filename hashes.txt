@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jononi
+
+This log tracks the cryptographic history and versioning for the song **Jononi** (jononi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:51:15.010799 | `v1` | `a33b49bb6bae2817d2620b7032a98c40f984776905f55f9e3491ef3ff0004063` | `2426a23610480ce71270fde37b218d469946ed3d63ad306a37380a12e00065d7` | `2026-05-08_jononi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
